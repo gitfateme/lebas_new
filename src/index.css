@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "IRANSansNormal";
+  src: url(./fonts/IRANSans.ttf) format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "IRANSansBold";
+  src: url(./fonts/IRANSans_Bold.ttf) format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "IRANSansLight";
+  src: url(./fonts/IRANSans_Light.ttf) format("truetype");
+  font-weight: light;
+}
